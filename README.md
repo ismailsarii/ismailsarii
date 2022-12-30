@@ -1,4 +1,5 @@
-![1287715](https://user-images.githubusercontent.com/117009914/210116806-57c2cce9-7cfd-4712-82d5-ae420db11db7.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/117009914/210117058-fd0bfcf9-ba64-4c85-be61-34ac4ba560c0.jpg)
+
 
 - 👋 Hi, I’m @ismailsarii
 - 👀 I’m interested in SDLC...
