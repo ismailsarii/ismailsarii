@@ -13,7 +13,7 @@
 
 <br>
 <br>
- <img  align="right" alt="perfil" src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" width="500" height="250" />
+ <img  align="right" alt="perfil" src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" width="450" height="250" />
 
 
 ## 🚀 About Me
