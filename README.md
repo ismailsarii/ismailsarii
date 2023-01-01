@@ -10,8 +10,14 @@
 </h1>
   </div>
 
-<div id="header" align="center">
- <img src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" />
+<div >
+ <div id="gif" align="right">
+   <img src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" />
+  </div> 
+ <div id="git" align="left">
+   <img src="![ismail SARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsarii&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" />
+  </div>
+
 </div>
 
 ## 🚀 About Me
@@ -26,8 +32,7 @@
 
 
 
-![ismail SARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsarii&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailsarii&layout=compact&theme=react"/>
+
 
 <!---
 ismailsarii/ismailsarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
