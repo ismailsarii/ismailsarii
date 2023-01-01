@@ -24,7 +24,8 @@
  <img src="https://user-images.githubusercontent.com/117009914/210179756-bead189e-baa5-4244-a41d-217c9ec8c078.jpg" />
 </div>
 
-
+![ismail SARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsarii&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailsarii&layout=compact&theme=react"/>
 
 <!---
 ismailsarii/ismailsarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
