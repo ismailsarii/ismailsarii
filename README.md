@@ -27,7 +27,6 @@
 
 
 ![ismail SARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsarii&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailsarii&layout=compact&theme=react"/>
 
 <!---
 ismailsarii/ismailsarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
