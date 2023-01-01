@@ -10,18 +10,17 @@
 </div>
 
 
+<div id="header" align="center">
+ - 👋 Hi, I’m @ismailsarii - 👀 I’m interested in SDLC... - 🌱 I’m currently learning JAVA ... - 💞️ I’m looking to collaborate on Software Quality Assurance ...
+                                                - 📫 How to reach me ismailsari344@gmail.com ...
 
-- 👋 Hi, I’m @ismailsarii
-- 👀 I’m interested in SDLC...
-- 🌱 I’m currently learning JAVA ...
-- 💞️ I’m looking to collaborate on Software Quality Assurance ...
-- 📫 How to reach me ismailsari344@gmail.com ...
+</div>
 
 
 
 
 <div id="header" align="center">
- <img src="https://user-images.githubusercontent.com/117009914/210179640-08f2d5c9-7db1-4781-8f0f-8fa166651aa2.jpg" />
+ <img src="https://user-images.githubusercontent.com/117009914/210179756-bead189e-baa5-4244-a41d-217c9ec8c078.jpg" />
 </div>
 
 
