@@ -3,21 +3,15 @@
  <img src="https://user-images.githubusercontent.com/117009914/210179756-bead189e-baa5-4244-a41d-217c9ec8c078.jpg" />
 </div>
 
-<div id="header" align="center">
+<div id="world" align="center">
 <h1 >
   Hello World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
 
-<div >
- <div id="gif" align="right">
-   <img src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" />
-  </div> 
- <div id="git" align="left">
-   <img src="![ismail SARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsarii&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" />
-  </div>
-
+<div id="gif" align="center">
+ <img src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" />
 </div>
 
 ## 🚀 About Me
@@ -32,7 +26,8 @@
 
 
 
-
+![ismail SARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsarii&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailsarii&layout=compact&theme=react"/>
 
 <!---
 ismailsarii/ismailsarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
