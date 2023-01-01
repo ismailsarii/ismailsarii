@@ -7,8 +7,6 @@
  <img src="https://user-images.githubusercontent.com/117009914/210117142-4d0f3fef-3102-42bd-a718-80faef21485e.jpg" />
 </div>
 
-![Screenshot_2](https://user-images.githubusercontent.com/117009914/210117142-4d0f3fef-3102-42bd-a718-80faef21485e.jpg)
-
 
 
 - 👋 Hi, I’m @ismailsarii
