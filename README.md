@@ -30,6 +30,10 @@
 
 ![ismail SARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailsarii&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ismailsarii&style=flat-square&color=0DDD00" alt="Visitors Badge"/>
+</p>
+
 <!---
 ismailsarii/ismailsarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
