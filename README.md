@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/117009914/210330680-81c9b6ba-1417-4e1e-a4e6-4547dca7c65a.svg" alt="intellij" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/117009914/210330301-dd366204-78cb-4630-aec5-afa1e9bf9bdb.svg" alt="visual" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/117009914/210325904-d3ec9da0-9079-479e-bc46-a3feffe2bfb2.svg" alt="git" width="40" height="40" />
