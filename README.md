@@ -24,11 +24,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="45" height="45" />
 <img src="https://user-images.githubusercontent.com/117009914/210327389-121348de-220c-4316-8634-beb1ed00e3a9.svg" alt="python" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/117009914/210328386-c364effe-fcbe-434e-a84f-0962dd3f9e2b.svg" alt="csharp" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/117009914/210325904-d3ec9da0-9079-479e-bc46-a3feffe2bfb2.svg" alt="git" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/117009914/210329371-0cd7ec68-4fd3-4e01-95e7-5455e7c03723.svg" alt="git" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/117009914/210329573-a2dff5dd-7b54-4439-8013-f7fad6825bbd.svg" alt="git" width="40" height="40" />
 </div>
+
+
 
 
 
