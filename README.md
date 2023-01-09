@@ -3,10 +3,13 @@
  <img src="https://user-images.githubusercontent.com/117009914/210179756-bead189e-baa5-4244-a41d-217c9ec8c078.jpg" />
 </div> --->
 <br>
- <img  align="right" alt="perfil" src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" width="430" height="250" />
-
+ 
+<td><img  align="right" alt="perfil" src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" width="430" height="250" /></td>
+<td></td>
 
 ## 🚀  Hello World...! About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+
 
 
 
