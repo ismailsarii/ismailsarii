@@ -5,15 +5,7 @@
  
 <img  align="right" alt="perfil" src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" width="430" height="300" />
 
-
-
-
 ## 🚀  Hello World...! About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-
-
-
-
 
  - 👋 Hi, I’m @ismailsarii 
  - 👀 I’m interested in SDLC... 
@@ -33,11 +25,6 @@
 <img src="https://user-images.githubusercontent.com/117009914/210329573-a2dff5dd-7b54-4439-8013-f7fad6825bbd.svg" alt="git" width="40" height="40" />
 </div>
 
-
-
-
-
-
 ##
 <div align="center">
  <img  src="https://raw.githubusercontent.com/ismailsarii/ismailsarii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
@@ -45,10 +32,6 @@
 
 ![SQA2](https://user-images.githubusercontent.com/117009914/211617518-dcbb7201-0091-4df2-bf8b-3add39e9dc87.JPG)
 
-
-![SQA3](https://user-images.githubusercontent.com/117009914/211621444-40bc38b1-128f-4ce1-ab7e-81fbb33f94b3.jpg)
-
- 
 ##
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ismailsarii&style=flat-square&color=0DDD00" alt="Visitors Badge"/>
