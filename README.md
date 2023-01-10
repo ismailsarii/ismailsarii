@@ -32,9 +32,6 @@
 
 ![SQA4](https://user-images.githubusercontent.com/117009914/211646239-6ae622e5-765d-47cf-9722-12fce4032768.JPG)
 
-
-![SQA2](https://user-images.githubusercontent.com/117009914/211617518-dcbb7201-0091-4df2-bf8b-3add39e9dc87.JPG)
-
 ##
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ismailsarii&style=flat-square&color=0DDD00" alt="Visitors Badge"/>
