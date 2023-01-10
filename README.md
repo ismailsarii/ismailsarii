@@ -44,9 +44,8 @@
 </div>
 
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/117009914/211566331-c460535a-4534-4981-9646-6b3588eca8a8.JPG"/>
-</p>
+
+![SQA](https://user-images.githubusercontent.com/117009914/211616802-380c8c3e-14fe-48f3-b7d5-b98b02564497.jpg)
 
  
 ##
