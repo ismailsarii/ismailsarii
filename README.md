@@ -30,8 +30,7 @@
  <img  src="https://raw.githubusercontent.com/ismailsarii/ismailsarii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </div>
 
-![SQA5](https://user-images.githubusercontent.com/117009914/211662767-731b4118-be90-4425-acff-5769bbff47ac.jpg)
-
+![SQA6](https://user-images.githubusercontent.com/117009914/211663479-64c7dd7f-93fa-4692-8133-ba912ea070d3.jpg)
 
 ##
 <p align="center">
