@@ -46,6 +46,7 @@
 ![SQA2](https://user-images.githubusercontent.com/117009914/211617518-dcbb7201-0091-4df2-bf8b-3add39e9dc87.JPG)
 
 
+![SQA3](https://user-images.githubusercontent.com/117009914/211621444-40bc38b1-128f-4ce1-ab7e-81fbb33f94b3.jpg)
 
  
 ##
