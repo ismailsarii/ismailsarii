@@ -1,11 +1,15 @@
 
 <!--- <div id="header" align="center">
  <img src="https://user-images.githubusercontent.com/117009914/210179756-bead189e-baa5-4244-a41d-217c9ec8c078.jpg" />
-</div> --->
+</div> ## 🚀  Hello World...! About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>--->
 
-<img  align="right" alt="perfil" src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" width="430" height="300" />
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm ismail</h1>
+<h3 align="center"> on the way to becoming a full stack qa engineer</h3>
 
-## 🚀  Hello World...! About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+<img  align="right" alt="Coding" src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" width="430" height="300"/>
+
+
 <br>
  - 👋 Hi, I’m @ismailsarii 
  <br>
