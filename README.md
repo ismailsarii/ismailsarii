@@ -11,7 +11,7 @@
 
 
 <br>
- - 👋I’m @ismailsarii 
+ - 👋 I’m @ismailsarii 
  <br>
  <br>
  - 👀 I’m interested in SDLC... 
