@@ -34,6 +34,9 @@
 <img src="https://user-images.githubusercontent.com/117009914/210329573-a2dff5dd-7b54-4439-8013-f7fad6825bbd.svg" alt="git" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/117009914/214925274-764a6534-3153-4d1d-8ee3-0abde77cc8e2.png" alt="git" width="40" height="40" />
 <img src="" alt="git" width="40" height="40" />
+ <img src="" alt="git" width="40" height="40" />
+ <img src="" alt="git" width="40" height="40" />
+ <img src="" alt="git" width="40" height="40" />
  
  
  
