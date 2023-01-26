@@ -40,29 +40,10 @@
 <img src="https://user-images.githubusercontent.com/117009914/214925623-c7731a13-619a-4702-9ff2-fc6c58b30f6a.png" alt="git" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/117009914/214925579-0af21377-67f0-4113-ba23-cb3da5ae15e1.png" alt="git" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/117009914/214925543-6db844c5-d714-4187-94ca-6e9bbb93d177.png" alt="git" width="40" height="40" />
-<img src="" alt="git" width="40" height="40" /> 
-<img src="" alt="git" width="40" height="40" /> 
- 
- 
+<img src="https://user-images.githubusercontent.com/117009914/214925565-05b4b114-1b6a-4312-90bc-759a1050b23b.png" alt="git" width="40" height="40" /> 
+
  
 </div>
-
-
-
-
-
-<img width="703" alt="Cucumber Logo" src="">
-
-![intellij-idea-logo]()
-
-![pngegg]()
-![Figma-1-logo](https://user-images.githubusercontent.com/117009914/214925565-05b4b114-1b6a-4312-90bc-759a1050b23b.png)
-
-
-<img width="703" alt="Cucumber Logo" src="https://user-images.githubusercontent.com/117009914/214925551-90473f37-1b4e-4b1f-a7fe-9633977cc693.png">
-
-
-
 
 ##
 <div align="center">
