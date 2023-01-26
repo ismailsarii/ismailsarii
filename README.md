@@ -2,7 +2,7 @@
 <h3 align="center"> you can just say full stack qa engineer</h3>
 
 
-<img  align="right" alt="Coding" src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" width="430" height="300"/>
+<img  align="right" alt="Coding" src="https://user-images.githubusercontent.com/117009914/210116295-3c012b0d-bf7f-4cff-8d70-b5f57c29bfc1.gif" width="430" height="250"/>
 
 
 <br>
