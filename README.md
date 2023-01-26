@@ -36,9 +36,9 @@
 <img src="https://user-images.githubusercontent.com/117009914/214925274-764a6534-3153-4d1d-8ee3-0abde77cc8e2.png" alt="git" width="50" height="40" />
 <img src="https://user-images.githubusercontent.com/117009914/214925722-d2d0b5f3-4113-4ceb-af9e-409f1f263c55.png" alt="git" width="50" height="40" />
 <img src="https://user-images.githubusercontent.com/117009914/214925752-9979fd3b-4303-42c3-be8d-6c74f3e65099.png" alt="git" width="60" height="40" />
-<img src="https://user-images.githubusercontent.com/117009914/214925691-5cb5ca11-4303-4b63-bc5e-e0282ce29c22.png" alt="git" width="120" height="40" />
-<img src="https://user-images.githubusercontent.com/117009914/214925623-c7731a13-619a-4702-9ff2-fc6c58b30f6a.png" alt="git" width="120" height="40" />
-<img src="https://user-images.githubusercontent.com/117009914/214925543-6db844c5-d714-4187-94ca-6e9bbb93d177.png" alt="git" width="100" height="40" /> 
+<img src="https://user-images.githubusercontent.com/117009914/214925691-5cb5ca11-4303-4b63-bc5e-e0282ce29c22.png" alt="git" width="80" height="40" />
+<img src="https://user-images.githubusercontent.com/117009914/214925623-c7731a13-619a-4702-9ff2-fc6c58b30f6a.png" alt="git" width="80" height="40" />
+<img src="https://user-images.githubusercontent.com/117009914/214925543-6db844c5-d714-4187-94ca-6e9bbb93d177.png" alt="git" width="80" height="40" /> 
 
  
 </div>
