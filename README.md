@@ -42,10 +42,7 @@
  
 </div>
 
-##
-<div align="center">
- <img  src="https://raw.githubusercontent.com/ismailsarii/ismailsarii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</div>
+
 
 ![SQA6](https://user-images.githubusercontent.com/117009914/211663479-64c7dd7f-93fa-4692-8133-ba912ea070d3.jpg)
 
